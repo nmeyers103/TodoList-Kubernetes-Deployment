@@ -1,7 +1,7 @@
 
 name: TodoList CI-CD Pipeline
 
-on:
+'on':
   push:
     branches:
       - master
